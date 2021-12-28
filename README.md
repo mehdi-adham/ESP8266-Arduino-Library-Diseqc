@@ -1,5 +1,5 @@
 # ESP8266 Arduino Library Diseqc
-Satellite Positioner Diseqc1.2
+Satellite Positioner Diseqc
 
 ## How to Use
 
